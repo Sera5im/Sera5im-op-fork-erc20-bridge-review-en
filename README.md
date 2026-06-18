@@ -3,7 +3,7 @@
 ## Overview
 
 This repository contains a comparison review of the custom `Sky OP Token Bridge` against the standard `Optimism Bedrock` bridge model.
-
+https://github.com/sky-ecosystem/op-token-bridge/tree/master
 The comparison is focused on:
 
 - the `L1 -> L2` initiating flow

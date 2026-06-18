@@ -2,6 +2,7 @@
 
 ## Overview
 https://github.com/sky-ecosystem/op-token-bridge/tree/master
+
 This repository contains a comparison review of the custom `Sky OP Token Bridge` against the standard `Optimism Bedrock` bridge model.
 The comparison is focused on:
 
